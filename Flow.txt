@@ -1,4 +1,26 @@
  
  This project is about predicting the disaster by getting the response from the cooridanation platform. 
 
- 
+
+
+For Frontend:- 
+We are going to use the React
+For Backend :- 
+
+Database (Express):- 
+
+Supabase (PostgreSQL + GIS)
+
+Gemini API, Mapbox API, Twitter Mock, Web Scrapers
+
+
+Flow 
+
+
+Frontend (React) ⟷ Backend (Express) ⟷ Supabase (PostgreSQL + GIS)
+                            ⬇
+       Gemini API, Mapbox API, Twitter Mock, Web Scrapers
+                            ⬆
+                    Cached in Supabase
+                            ⬆
+                    Socket.IO for real-time
