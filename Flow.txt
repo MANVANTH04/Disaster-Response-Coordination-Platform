@@ -28,3 +28,8 @@ Frontend (React) ⟷ Backend (Express) ⟷ Supabase (PostgreSQL + GIS)
 
 
 Going to implement the frontend with pages like home, create disaster, submit report, admin
+
+
+6TH JULY completing the frontend 
+7th july completing the backend. 
+by 8th july i will complete the whole project.
