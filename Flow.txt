@@ -33,3 +33,5 @@ Going to implement the frontend with pages like home, create disaster, submit re
 6TH JULY completing the frontend 
 7th july completing the backend. 
 by 8th july i will complete the whole project.
+
+after this project i will build the realestate website where people post their houses to sell and also rent
